@@ -14,7 +14,7 @@
 ## ScreenShots
 
 ![frontPage](/assets/images/screenShot.jpg)
-[Deploy Application]()
+[Deploy Application](https://tech-blog-my-application.herokuapp.com/)
 
 ## Acceptance Criteria :
 
